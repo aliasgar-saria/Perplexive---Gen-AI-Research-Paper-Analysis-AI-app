@@ -1,4 +1,4 @@
-# PerpleXive - AI Research Paper Assistant
+# PerpleXive - Gemini Powered Gen AI Research Paper Assistant
 
 A Gen AI-powered research paper assistant designed to streamline academic workflows, powered by Google Gemini 2.0 Flash. PerpleXive is a comprehensive Streamlit application that supports researchers with searching, analyzing, visualizing, and summarizing academic papers.
 
