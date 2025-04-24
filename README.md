@@ -1,6 +1,6 @@
 # PerpleXive - AI Research Paper Assistant
 
-An AI-powered research paper assistant that helps with searching, analyzing, visualizing, and summarizing academic papers. Powered by Google Gemini 2.0 Flash.
+A Gen AI-powered research paper assistant that helps with searching, analyzing, visualizing, and summarizing academic papers. Powered by Google Gemini 2.0 Flash.
 
 ## Features
 
@@ -14,8 +14,8 @@ An AI-powered research paper assistant that helps with searching, analyzing, vis
 
 1. Clone the repository
 ```bash
-git clone git clone https://github.com/aliasgar-saria/Perplexive---Research-Paper-Analysis-AI-app.git
-cd AI-Research-Bot
+git clone https://github.com/aliasgar-saria/Perplexive---Gen-AI-Research-Paper-Analysis-AI-app.git
+cd Perplexive---Gen-AI-Research-Paper-Analysis-AI-app
 ```
 
 2. Create and activate virtual environment
