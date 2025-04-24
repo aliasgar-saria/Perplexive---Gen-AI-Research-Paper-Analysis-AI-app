@@ -15,6 +15,13 @@ Features
 
 Built with robust tools like Google Gemini for content generation, FAISS for similarity search, and pdfplumber for PDF processing, PerpleXive offers error handling and a user-friendly interface with spinners and expanders. It’s an essential tool for researchers aiming to enhance productivity and research quality.
 
+Screens of all features Perplexive can assist with:
+![Screenshot 2025-04-24 at 2 05 53 PM](https://github.com/user-attachments/assets/87822a89-e353-46eb-a6bf-9ce3e289465c)
+![Screenshot 2025-04-24 at 2 08 12 PM](https://github.com/user-attachments/assets/25479ae2-0d2f-4d7d-ae9b-5393061ec7e9)
+![Screenshot 2025-04-24 at 2 07 18 PM](https://github.com/user-attachments/assets/3fb4c8e4-65cc-4e61-abbc-03337a10e1f9)
+![Screenshot 2025-04-24 at 2 06 29 PM](https://github.com/user-attachments/assets/d9056b47-5b37-449f-9972-73f09ad04ead)
+
+
 ## Installation
 
 1. Clone the repository
